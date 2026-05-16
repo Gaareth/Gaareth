@@ -1,10 +1,9 @@
 ### Hi there 👋
 
-I'm interested in 
+I'm interested in computers and 
 - web dev
-- low-level langs
+- compilers
 - reverse engineering
-- computers 
 
 ![Stats](./profile/wakatime.svg)
 ![Top Languages](./profile/top-langs.svg)
