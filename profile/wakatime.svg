@@ -129,7 +129,7 @@
             data-testid="lang-progress"
             x="0"
             y="0"
-            width="379.6725"
+            width="241.986"
             height="8"
             fill="#0060ac"
           />
@@ -137,9 +137,19 @@
           <rect
             mask="url(#rect-mask)"
             data-testid="lang-progress"
-            x="379.6725"
+            x="241.986"
             y="0"
-            width="72.5865"
+            width="168.46949999999998"
+            height="8"
+            fill="#178600"
+          />
+        
+          <rect
+            mask="url(#rect-mask)"
+            data-testid="lang-progress"
+            x="410.4555"
+            y="0"
+            width="46.2675"
             height="8"
             fill="#3572A5"
           />
@@ -147,9 +157,9 @@
           <rect
             mask="url(#rect-mask)"
             data-testid="lang-progress"
-            x="452.259"
+            x="456.72299999999996"
             y="0"
-            width="9.392999999999999"
+            width="5.9985"
             height="8"
             fill="#22314e"
           />
@@ -163,13 +173,20 @@
     </g>
   
     <g transform="translate(230, 25)">
+      <circle cx="5" cy="6" r="5" fill="#178600" />
+      <text data-testid="lang-name" x="15" y="10" class='lang-name'>
+        C# - 1 hr 35 mins
+      </text>
+    </g>
+  
+    <g transform="translate(25, 50)">
       <circle cx="5" cy="6" r="5" fill="#3572A5" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
         Python - 26 mins
       </text>
     </g>
   
-    <g transform="translate(25, 50)">
+    <g transform="translate(230, 50)">
       <circle cx="5" cy="6" r="5" fill="#22314e" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
         ROS Interface - 3 mins
