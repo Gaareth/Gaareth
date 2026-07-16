@@ -129,7 +129,7 @@
             data-testid="lang-progress"
             x="0"
             y="0"
-            width="289.60200000000003"
+            width="224.13"
             height="8"
             fill="#3572A5"
           />
@@ -137,9 +137,9 @@
           <rect
             mask="url(#rect-mask)"
             data-testid="lang-progress"
-            x="289.60200000000003"
+            x="224.13"
             y="0"
-            width="162.5175"
+            width="212.17950000000002"
             height="8"
             fill="#178600"
           />
@@ -147,49 +147,49 @@
           <rect
             mask="url(#rect-mask)"
             data-testid="lang-progress"
-            x="452.1195"
+            x="436.3095"
             y="0"
-            width="7.951499999999999"
+            width="17.948999999999998"
             height="8"
-            fill="#cb171e"
+            fill="#083fa1"
           />
         
           <rect
             mask="url(#rect-mask)"
             data-testid="lang-progress"
-            x="460.071"
+            x="454.2585"
             y="0"
-            width="4.2780000000000005"
+            width="10.044"
             height="8"
-            fill="#083fa1"
+            fill="#cb171e"
           />
         
       
     <g transform="translate(25, 25)">
       <circle cx="5" cy="6" r="5" fill="#3572A5" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        Python - 9 hrs 14 mins
+        Python - 5 hrs 39 mins
       </text>
     </g>
   
     <g transform="translate(230, 25)">
       <circle cx="5" cy="6" r="5" fill="#178600" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        C# - 5 hrs 11 mins
+        C# - 5 hrs 21 mins
       </text>
     </g>
   
     <g transform="translate(25, 50)">
-      <circle cx="5" cy="6" r="5" fill="#cb171e" />
+      <circle cx="5" cy="6" r="5" fill="#083fa1" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        YAML - 15 mins
+        Markdown - 27 mins
       </text>
     </g>
   
     <g transform="translate(230, 50)">
-      <circle cx="5" cy="6" r="5" fill="#083fa1" />
+      <circle cx="5" cy="6" r="5" fill="#cb171e" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        Markdown - 8 mins
+        YAML - 15 mins
       </text>
     </g>
   
