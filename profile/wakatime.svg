@@ -129,7 +129,7 @@
             data-testid="lang-progress"
             x="0"
             y="0"
-            width="319.12949999999995"
+            width="337.776"
             height="8"
             fill="#ff3e00"
           />
@@ -137,9 +137,9 @@
           <rect
             mask="url(#rect-mask)"
             data-testid="lang-progress"
-            x="319.12949999999995"
+            x="337.776"
             y="0"
-            width="104.346"
+            width="92.86049999999999"
             height="8"
             fill="#3178c6"
           />
@@ -147,9 +147,9 @@
           <rect
             mask="url(#rect-mask)"
             data-testid="lang-progress"
-            x="423.47549999999995"
+            x="430.6365"
             y="0"
-            width="32.736"
+            width="27.528000000000002"
             height="8"
             fill="#292929"
           />
@@ -157,9 +157,9 @@
           <rect
             mask="url(#rect-mask)"
             data-testid="lang-progress"
-            x="456.21149999999994"
+            x="458.16450000000003"
             y="0"
-            width="5.952000000000001"
+            width="5.022"
             height="8"
             fill="#083fa1"
           />
@@ -167,9 +167,9 @@
           <rect
             mask="url(#rect-mask)"
             data-testid="lang-progress"
-            x="462.16349999999994"
+            x="463.1865"
             y="0"
-            width="3.9525"
+            width="3.3015"
             height="8"
             fill="#858585"
           />
@@ -178,14 +178,14 @@
     <g transform="translate(25, 25)">
       <circle cx="5" cy="6" r="5" fill="#ff3e00" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        Svelte - 6 hrs 54 mins
+        Svelte - 8 hrs 40 mins
       </text>
     </g>
   
     <g transform="translate(230, 25)">
       <circle cx="5" cy="6" r="5" fill="#3178c6" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        TypeScript - 2 hrs 15 mins
+        TypeScript - 2 hrs 23 mins
       </text>
     </g>
   
