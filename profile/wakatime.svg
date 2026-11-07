@@ -129,7 +129,7 @@
             data-testid="lang-progress"
             x="0"
             y="0"
-            width="160.84350000000003"
+            width="166.377"
             height="8"
             fill="#f1e05a"
           />
@@ -137,9 +137,9 @@
           <rect
             mask="url(#rect-mask)"
             data-testid="lang-progress"
-            x="160.84350000000003"
+            x="166.377"
             y="0"
-            width="113.646"
+            width="117.5985"
             height="8"
             fill="#858585"
           />
@@ -147,9 +147,9 @@
           <rect
             mask="url(#rect-mask)"
             data-testid="lang-progress"
-            x="274.4895"
+            x="283.9755"
             y="0"
-            width="79.23599999999999"
+            width="77.1435"
             height="8"
             fill="#e34c26"
           />
@@ -157,9 +157,9 @@
           <rect
             mask="url(#rect-mask)"
             data-testid="lang-progress"
-            x="353.7255"
+            x="361.119"
             y="0"
-            width="55.8465"
+            width="57.753"
             height="8"
             fill="#292929"
           />
@@ -167,11 +167,11 @@
           <rect
             mask="url(#rect-mask)"
             data-testid="lang-progress"
-            x="409.572"
+            x="418.872"
             y="0"
-            width="55.5675"
+            width="46.872"
             height="8"
-            fill="#083fa1"
+            fill="#c6538c"
           />
         
       
@@ -192,7 +192,7 @@
     <g transform="translate(25, 50)">
       <circle cx="5" cy="6" r="5" fill="#e34c26" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        HTML - 31 mins
+        HTML - 29 mins
       </text>
     </g>
   
@@ -204,9 +204,9 @@
     </g>
   
     <g transform="translate(25, 75)">
-      <circle cx="5" cy="6" r="5" fill="#083fa1" />
+      <circle cx="5" cy="6" r="5" fill="#c6538c" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        Markdown - 22 mins
+        SCSS - 18 mins
       </text>
     </g>
   
