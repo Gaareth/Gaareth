@@ -129,7 +129,7 @@
             data-testid="lang-progress"
             x="0"
             y="0"
-            width="175.67700000000002"
+            width="182.187"
             height="8"
             fill="#c6538c"
           />
@@ -137,9 +137,9 @@
           <rect
             mask="url(#rect-mask)"
             data-testid="lang-progress"
-            x="175.67700000000002"
+            x="182.187"
             y="0"
-            width="98.301"
+            width="102.0675"
             height="8"
             fill="#f1e05a"
           />
@@ -147,9 +147,9 @@
           <rect
             mask="url(#rect-mask)"
             data-testid="lang-progress"
-            x="273.978"
+            x="284.2545"
             y="0"
-            width="92.442"
+            width="95.6505"
             height="8"
             fill="#e34c26"
           />
@@ -157,9 +157,9 @@
           <rect
             mask="url(#rect-mask)"
             data-testid="lang-progress"
-            x="366.42"
+            x="379.905"
             y="0"
-            width="55.195499999999996"
+            width="57.288000000000004"
             height="8"
             fill="#083fa1"
           />
@@ -167,11 +167,11 @@
           <rect
             mask="url(#rect-mask)"
             data-testid="lang-progress"
-            x="421.6155"
+            x="437.193"
             y="0"
-            width="42.035999999999994"
+            width="26.877000000000002"
             height="8"
-            fill="#858585"
+            fill="#3178c6"
           />
         
       
@@ -204,9 +204,9 @@
     </g>
   
     <g transform="translate(25, 75)">
-      <circle cx="5" cy="6" r="5" fill="#858585" />
+      <circle cx="5" cy="6" r="5" fill="#3178c6" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        Bash - 51 mins
+        TypeScript - 31 mins
       </text>
     </g>
   
