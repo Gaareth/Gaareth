@@ -129,7 +129,7 @@
             data-testid="lang-progress"
             x="0"
             y="0"
-            width="177.30450000000002"
+            width="194.835"
             height="8"
             fill="#c6538c"
           />
@@ -137,9 +137,9 @@
           <rect
             mask="url(#rect-mask)"
             data-testid="lang-progress"
-            x="177.30450000000002"
+            x="194.835"
             y="0"
-            width="113.7855"
+            width="112.43700000000001"
             height="8"
             fill="#e34c26"
           />
@@ -147,9 +147,9 @@
           <rect
             mask="url(#rect-mask)"
             data-testid="lang-progress"
-            x="291.09000000000003"
+            x="307.27200000000005"
             y="0"
-            width="76.911"
+            width="72.40050000000001"
             height="8"
             fill="#083fa1"
           />
@@ -157,9 +157,9 @@
           <rect
             mask="url(#rect-mask)"
             data-testid="lang-progress"
-            x="368.00100000000003"
+            x="379.67250000000007"
             y="0"
-            width="67.332"
+            width="55.056000000000004"
             height="8"
             fill="#f1e05a"
           />
@@ -167,9 +167,9 @@
           <rect
             mask="url(#rect-mask)"
             data-testid="lang-progress"
-            x="435.333"
+            x="434.72850000000005"
             y="0"
-            width="28.458000000000002"
+            width="31.247999999999998"
             height="8"
             fill="#3178c6"
           />
@@ -185,21 +185,21 @@
     <g transform="translate(230, 25)">
       <circle cx="5" cy="6" r="5" fill="#e34c26" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        HTML - 2 hrs 6 mins
+        HTML - 1 hr 53 mins
       </text>
     </g>
   
     <g transform="translate(25, 50)">
       <circle cx="5" cy="6" r="5" fill="#083fa1" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        Markdown - 1 hr 25 mins
+        Markdown - 1 hr 13 mins
       </text>
     </g>
   
     <g transform="translate(230, 50)">
       <circle cx="5" cy="6" r="5" fill="#f1e05a" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        JavaScript - 1 hr 14 mins
+        JavaScript - 55 mins
       </text>
     </g>
   
